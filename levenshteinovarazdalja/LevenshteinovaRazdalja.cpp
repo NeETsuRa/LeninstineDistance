@@ -1,7 +1,7 @@
 // LevenshteinovaRazdalja.cpp : Defines the entry point for the console application.
 //
 
-/* Karmen Unuk
+/* 
 OA_N0000819_sklop4_naloga3&4: Levenshteinova razdalja */
 
 /* Napišite program, ki izraèuna Levenshteinovo razdaljo za dva niza in izpiše poravnavo
